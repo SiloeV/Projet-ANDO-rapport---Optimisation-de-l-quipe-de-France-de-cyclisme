@@ -10,7 +10,7 @@ L’objectif est de démontrer comment les données peuvent guider les décision
 
 ## Contenu du dépôt
 
-- `rapport_projet_ando.pdf` : rapport final du projet
+- `ANDO- Rapport` : rapport final du projet
 
 ## Technologies et outils
 
