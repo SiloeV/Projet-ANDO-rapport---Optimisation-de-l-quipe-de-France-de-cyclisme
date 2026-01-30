@@ -4,7 +4,7 @@
 
 Ce dépôt contient le rapport complet du projet Ando réalisé en 2025 dans le cadre de mes études en mathématiques appliquées et statistiques.
 
-Le projet porte sur l’**optimisation de la sélection de l’équipe de France de cyclisme**, à partir de **données de performance réelles**, en utilisant des méthodes d’analyse multicritère et d’aide à la décision.
+Le projet porte sur l’**optimisation de la sélection de l’équipe de France de cyclisme pour les championnats du monde 2025 à Kigali**, à partir de **données de performance réelles**, en utilisant des méthodes d’analyse multicritère et d’aide à la décision.
 
 L’objectif est de démontrer comment les données peuvent guider les décisions stratégiques dans le cyclisme et d’illustrer l’application de concepts mathématiques et statistiques à un contexte sportif réel.
 
